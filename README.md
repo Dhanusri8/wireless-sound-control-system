@@ -1,0 +1,4 @@
+# wireless-sound-control-system
+The purpose of this project is to understand the human body language by the computer using gesture recognition.  In this project for gesture recognition, the human body’s motions are read by computer camera. The computer then makes use of this data as input to handle applications. The main objective of this project is to develop an  interface which will capture human hand gesture dynamically and will control the volume level. 
+       The camera in our device is used for this project. It  detects our hand with points in it so it can see   the    distance between our hand thumb finger tip and index finger tip. The distance between the points 4 and 8 is directly proportional to volume of device. 
+       It detects the hand landmarks and calculates the distance between thumb tip and index finger tip and maps the distance of thumb and index finger tip with volume range. In order to exit this we have to press the ‘Spacebar’. 
